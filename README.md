@@ -12,7 +12,7 @@
 - administrator
 #### - Enter the given url and add the bot into your server
 #### - Navigate to General Information -> Copy your bot's Application ID
-#### - Paste it under `CLIENT_ID` in `index.js`
-#### - Copy your discord server ID and paste it under `GUILD_ID` in `index.js`
+#### - Paste it under `CLIENT_ID` in the `.env` file
+#### - Copy your discord server ID and paste it under `GUILD_ID` in the `.env` file
 #### - Use `node index.js load` to load the bot  
 #### - Use `node index.js` to start the bot
